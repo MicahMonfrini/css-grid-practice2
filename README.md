@@ -1,1 +1,1 @@
-# css-grid-practice2
+# CSS Grid notes:
